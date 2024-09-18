@@ -1,0 +1,4 @@
+- The composable exposes a reactive `state` property that exposes a single item in the list at a time
+- The composable exposes a `next` function which sets the `state` to the next sequential item in the list
+- The composable exposes a `prev` function which sets the `state` to the previous sequential item in the list
+- The usage of the composable works with the provided list of animals to cycle through them in order
